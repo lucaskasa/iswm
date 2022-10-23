@@ -4,5 +4,5 @@
 
 ## Table of Contents
 1. [Code](https://github.com/lucaskasa/iswm/tree/main/Code)
-2. [Images](https://github.com/lucaskasa/iswm/tree/Images)
-3. [Full paper](https://github.com/lucaskas/iswm/tree/FullPaper)
+2. [Images](https://github.com/lucaskasa/iswm/tree/images)
+3. [Full paper](https://github.com/lucaskas/iswm/tree/fullpaper)
